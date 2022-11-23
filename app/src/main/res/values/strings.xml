@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="create">Create</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="welcomeText">To Our Shoe Store App</string>
+    <string name="inst1">1. You can browse the shoes added to the list</string>
+    <string name="inst2">2. You can add items to the list by clicking the add button at the bottom</string>
+    <string name="save">Save</string>
+</resources>
